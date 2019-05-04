@@ -3,7 +3,7 @@ Web application with: Java EE: Servlets + JSP + JPA<br />
 Deployed on TomEE.
 
 ## Key Functionalities
-MeTube is an platform for sharing videos.<br />
+MeTube is a platform for sharing videos.<br />
 
 Guest users can acces only login, register, index page.<br />
 Registered users can view uploaded videos, profile, home page.<br />
